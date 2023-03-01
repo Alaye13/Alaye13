@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alaye13
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... PHP
 - 💞️ I’m looking to collaborate on ... Java,pyhthon
 - 📫 How to reach me ...ifennaekwenem@gmail.com
 
